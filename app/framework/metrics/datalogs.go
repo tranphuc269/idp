@@ -3,8 +3,8 @@ package metrics
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/short-d/env"
 	"idp_system/app/framework/ctx"
+	"idp_system/app/framework/env"
 	"idp_system/app/framework/timer"
 	"idp_system/app/framework/webreq"
 	"net/http"

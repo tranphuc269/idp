@@ -25,7 +25,6 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/segmentio/backo-go v1.0.0 // indirect
 	github.com/sendgrid/rest v2.4.1+incompatible // indirect
-	github.com/short-d/env v0.0.0-20200831183343-72bae4432464 // indirect
 	github.com/spf13/pflag v1.0.3 // indirect
 	golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3 // indirect
 	golang.org/x/sys v0.0.0-20190515120540-06a5c4944438 // indirect
